@@ -1,6 +1,5 @@
 ![Screenshot 2025-06-26 214559](https://github.com/user-attachments/assets/e37a7f49-48a8-4a98-904e-a452f29c6203)
 
-
 <!--
 **HUNTRlX/HUNTRlX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
